@@ -177,7 +177,7 @@ insurance-charge regression.
 
 <br/>
 
-## Currently in 5th Semester
+## Currently in 7th Semester
 
 <div align="center">
 
