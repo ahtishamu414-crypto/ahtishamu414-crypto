@@ -22,11 +22,11 @@ I'm a BSCS student at the **University of Management and Technology, Lahore**, c
 data science, and agentic AI — I'd rather ship a working model or agent than leave it in a
 notebook. I've worked as an ML/data intern across three companies:
 
-- **Code Alpha** — ML Engineering
+- **AgileTech Studio** — AI Intern
 - **DevelopersHub Corporation** — Data Science & Analytics
 - **DecodeLabs** — Data Analytics
 
-Right now I'm building an agent that controls real ESP32 hardware over natural language, and
+I have build an agent that controls real ESP32 hardware over natural language, and
 picking up JavaScript, Django, and backend fundamentals on the side. Open to internships.
 
 <br/>
