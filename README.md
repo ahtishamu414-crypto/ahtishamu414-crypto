@@ -117,13 +117,30 @@ series forecasting (ARIMA, Prophet, XGBoost), and insurance-charge regression.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-topaz.vercel.app/api?username=ahtishamu414-crypto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=ahtishamu414-crypto&hide_border=true&background=000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats-eight-topaz.vercel.app/api/top-langs/?username=ahtishamu414-crypto&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=38BDF8&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ahtishamu414-crypto&hide_border=true&background=000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=ahtishamu414-crypto&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
 
 </div>
 
 <br/>
 
 ### Yearly Contribution — Animated
+
+The snake below is fed by my daily contribution grid — it grows denser the more I ship.
 
 <div align="center">
 
@@ -140,6 +157,12 @@ series forecasting (ARIMA, Prophet, XGBoost), and insurance-charge regression.
 <div align="center">
 
 <sub>Currently studying: Machine Learning · AI · Data Science · Software Engineering · Databases</sub>
+
+<br/><br/>
+
+### Let's build something worth shipping
+
+<img src="https://komarev.com/ghpvc/?username=ahtishamu414-crypto&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
